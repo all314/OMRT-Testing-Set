@@ -1,0 +1,48 @@
+!!!!SEGMENT:
+!!!OMD: P006003.musicxml.xml
+**kern	**kern
+*part1	*part1
+*staff2	*staff1
+*I"Piano	*
+*I'Pno	*
+*clefF4	*clefG2
+*k[f#c#g#d#]	*k[f#c#g#d#]
+!!LO:TX:omd:t=
+*M4/4	*M4/4
+=1	=1
+(1G#^ 1GG#^	1r
+=2	=2
+1G# 1GG#)	1r
+=3	=3
+12C# 12CC#	1r
+12G#	.
+12c#	.
+12e	.
+12c#	.
+12G#	.
+12C#	.
+12G#	.
+12c#	.
+12e	.
+12c#	.
+12G#	.
+=4	=4
+12C#	1r
+12G#	.
+12c#	.
+12e	.
+12c#	.
+12G#	.
+12C#	.
+12G#	.
+12c#	.
+12e	.
+12c#	.
+12G#	.
+=	=
+*-	*-
+!!!software: music21 v.10.5.0
+!!!software: homr
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

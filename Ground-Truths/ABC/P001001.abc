@@ -1,0 +1,17 @@
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:4/4
+Q:1/2=100
+K:A
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ [Ec]6 [DB]2 | [Fd]6 [Ec]/[DB][CA]/ | [DB]>[Ec]- [Ec]2- [Ec]>[ca] [ca]>[Bg] | [Bg]>[Af] [Af]6 |
+[K:A] [Ec]6 [DB]2 | [Fd]6 [Ec][DB][CA]/ | [DB]>[Ec]- [Ec]4 [B,EB]2 | [CDA]3 [CCA]- [CCA]4 |
+V:2
+ A,,2 A,,A,,- A,,2 A,,2 | A,,2 A,,A,,- A,,2 A,,2 | A,,2 A,,A,,- A,,2 A,,2 | A,,2 A,,A,,- A,,2 A,,2 |
+[K:A] A,,2 A,,A,,- A,,2 A,,2 | x/ A,,2 A,,A,,- A,,2 A,,3/2- | A,,2 A,,/ A,,A,,- A,,2 G,,2 | F,,3 E,,- E,,4 |

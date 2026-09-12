@@ -1,0 +1,71 @@
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:4/4
+Q:1/2=100
+K:A
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ [Ec]6 [DB]2 | [Fd]6 [Ec]/[DB][CA]/ | [DB]>[Ec]- [Ec]2- [Ec]>[ca] [ca]>[Bg] | [Bg]>[Af] [Af]6 |
+[K:A] [Ec]6 [DB]2 | [Fd]6 [Ec][DB][CA]/ | [DB]>[Ec]- [Ec]4 [B,EB]2 | [CDA]3 [CCA]- [CCA]4 |
+V:2
+ A,,2 A,,A,,- A,,2 A,,2 | A,,2 A,,A,,- A,,2 A,,2 | A,,2 A,,A,,- A,,2 A,,2 | A,,2 A,,A,,- A,,2 A,,2 |
+[K:A] A,,2 A,,A,,- A,,2 A,,2 | x/ A,,2 A,,A,,- A,,2 A,,3/2- | A,,2 A,,/ A,,A,,- A,,2 G,,2 | F,,3 E,,- E,,4 |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:4/4
+Q:1/2=100
+K:G
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ B,>B | B6 c2 | B6 c2 | B6 c2 |
+V:2
+ z2 | [G,B,E][G,B,E][G,B,E][G,B,E] [G,B,E][G,B,E][G,B,E][G,B,E] | [F,A,E][F,A,E][F,A,E][F,A,E] [F,A,^D][F,A,D][F,A,D][F,A,D] | [=F,A,^D][F,A,D][F,A,D][F,A,D] [F,A,=D][F,A,D][F,^G,D][F,G,D] |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:4/4
+Q:1/2=100
+K:G
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ B,>B | B6 c2 | B6 c2 | B6 c2 |
+[K:C] B6 ^A2 | =A6 B2 | A6 B2 |
+V:2
+ z2 | [G,B,E][G,B,E][G,B,E][G,B,E] [G,B,E][G,B,E][G,B,E][G,B,E] | [F,A,E][F,A,E][F,A,E][F,A,E] [F,A,^D][F,A,D][F,A,D][F,A,D] | [=F,A,^D][F,A,D][F,A,D][F,A,D] [F,A,=D][F,A,D][F,^G,D][F,G,D] |
+[K:C] [E,^G,D][E,G,D][E,G,D][E,G,D] [E,=G,D][E,G,D][E,G,^C][E,G,C] | [E,G,=C][E,G,C][E,G,C][E,G,C] [E,F,C][E,F,C][E,F,C][E,F,C] | [E,F,C][E,F,C][E,F,C][E,F,C] [^D,F,C][D,F,C][D,F,C][D,F,C] |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:4/4
+Q:1/2=100
+K:G
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ B,>B | B6 c2 | B6 c2 | B6 c2 |
+[K:G] B6 ^A2 | =A6 B2 | A6 B2 |[K:G] A6 B>A |
+ !>!A6 !>!^G2- | G2 AB dcEA |
+V:2
+ z2 | [G,B,E][G,B,E][G,B,E][G,B,E] [G,B,E][G,B,E][G,B,E][G,B,E] | [F,A,E][F,A,E][F,A,E][F,A,E] [F,A,^D][F,A,D][F,A,D][F,A,D] | [=F,A,^D][F,A,D][F,A,D][F,A,D] [F,A,=D][F,A,D][F,A,D][F,^G,D] |
+[K:G] [E,^G,D][E,G,D][E,G,D][E,G,D] [E,=G,D][E,G,D][E,G,^C][E,G,C] | [E,G,=C][E,G,C][E,G,C][E,G,C] [E,F,C][E,F,C][E,F,C][E,F,C] | [E,F,C][E,F,C][E,F,C][E,F,C] [^D,F,C][D,F,C][D,F,C][D,F,C] |[K:G] [=D,F,C][D,F,C][D,F,C][D,F,C] [D,F,C][D,F,C][D,F,C][D,F,C] |
+ [=D,F,C][D,F,C][D,F,C][D,F,C] [D,F,B,][D,F,B,][D,F,B,][D,F,B,] | [C,E,B,][C,E,B,][C,E,A,][C,E,A,] [C,E,A,][C,E,A,][C,E,A,][C,E,A,] |

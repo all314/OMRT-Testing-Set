@@ -1,0 +1,213 @@
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:4/4
+Q:1/2=100
+K:A
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ [Ec]6 [DB]2 | [Fd]6 [Ec]/[DB][CA]/ | [DB]>[Ec]- [Ec]2- [Ec]>[ca] [ca]>[Bg] | [Bg]>[Af] [Af]6 |
+[K:A] [Ec]6 [DB]2 | [Fd]6 [Ec][DB][CA]/ | [DB]>[Ec]- [Ec]4 [B,EB]2 | [CDA]3 [CCA]- [CCA]4 |
+V:2
+ A,,2 A,,A,,- A,,2 A,,2 | A,,2 A,,A,,- A,,2 A,,2 | A,,2 A,,A,,- A,,2 A,,2 | A,,2 A,,A,,- A,,2 A,,2 |
+[K:A] A,,2 A,,A,,- A,,2 A,,2 | x/ A,,2 A,,A,,- A,,2 A,,3/2- | A,,2 A,,/ A,,A,,- A,,2 G,,2 | F,,3 E,,- E,,4 |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:4/4
+Q:1/2=100
+K:G
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ B,>B | B6 c2 | B6 c2 | B6 c2 |
+V:2
+ z2 | [G,B,E][G,B,E][G,B,E][G,B,E] [G,B,E][G,B,E][G,B,E][G,B,E] | [F,A,E][F,A,E][F,A,E][F,A,E] [F,A,^D][F,A,D][F,A,D][F,A,D] | [=F,A,^D][F,A,D][F,A,D][F,A,D] [F,A,=D][F,A,D][F,^G,D][F,G,D] |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:4/4
+Q:1/2=100
+K:G
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ B,>B | B6 c2 | B6 c2 | B6 c2 |
+[K:C] B6 ^A2 | =A6 B2 | A6 B2 |
+V:2
+ z2 | [G,B,E][G,B,E][G,B,E][G,B,E] [G,B,E][G,B,E][G,B,E][G,B,E] | [F,A,E][F,A,E][F,A,E][F,A,E] [F,A,^D][F,A,D][F,A,D][F,A,D] | [=F,A,^D][F,A,D][F,A,D][F,A,D] [F,A,=D][F,A,D][F,^G,D][F,G,D] |
+[K:C] [E,^G,D][E,G,D][E,G,D][E,G,D] [E,=G,D][E,G,D][E,G,^C][E,G,C] | [E,G,=C][E,G,C][E,G,C][E,G,C] [E,F,C][E,F,C][E,F,C][E,F,C] | [E,F,C][E,F,C][E,F,C][E,F,C] [^D,F,C][D,F,C][D,F,C][D,F,C] |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:4/4
+Q:1/2=100
+K:G
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ B,>B | B6 c2 | B6 c2 | B6 c2 |
+[K:G] B6 ^A2 | =A6 B2 | A6 B2 |[K:G] A6 B>A |
+ !>!A6 !>!^G2- | G2 AB dcEA |
+V:2
+ z2 | [G,B,E][G,B,E][G,B,E][G,B,E] [G,B,E][G,B,E][G,B,E][G,B,E] | [F,A,E][F,A,E][F,A,E][F,A,E] [F,A,^D][F,A,D][F,A,D][F,A,D] | [=F,A,^D][F,A,D][F,A,D][F,A,D] [F,A,=D][F,A,D][F,A,D][F,^G,D] |
+[K:G] [E,^G,D][E,G,D][E,G,D][E,G,D] [E,=G,D][E,G,D][E,G,^C][E,G,C] | [E,G,=C][E,G,C][E,G,C][E,G,C] [E,F,C][E,F,C][E,F,C][E,F,C] | [E,F,C][E,F,C][E,F,C][E,F,C] [^D,F,C][D,F,C][D,F,C][D,F,C] |[K:G] [=D,F,C][D,F,C][D,F,C][D,F,C] [D,F,C][D,F,C][D,F,C][D,F,C] |
+ [=D,F,C][D,F,C][D,F,C][D,F,C] [D,F,B,][D,F,B,][D,F,B,][D,F,B,] | [C,E,B,][C,E,B,][C,E,A,][C,E,A,] [C,E,A,][C,E,A,][C,E,A,][C,E,A,] |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:none
+Q:100
+K:G
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ B6 c2 | B6 c2 | B6 c2 |
+V:2
+ [G,B,E][G,B,E][G,B,E][G,B,E] [G,B,E][G,B,E][G,B,E][G,B,E] | [F,A,E][F,A,E][F,A,E][F,A,E] [=F,A,^D][F,A,D][F,A,D][F,A,D] | [=F,^G,^D][F,G,D][F,G,=D][F,G,D] [E,G,D][E,G,D][E,G,D][E,G,D] |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:none
+Q:100
+K:G
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ B6 c2 | B6 c2 | B6 c2 |[K:G] B>^A A{/BAGA}=g f>e |
+ e^dc'd degB | =dc (3eEA F3 A |
+V:2
+ [G,B,E][G,B,E][G,B,E][G,B,E] [G,B,E][G,B,E][G,B,E][G,B,E] | [F,A,E][F,A,E][F,A,E][F,A,E] [=F,A,^D][F,A,D][F,A,D][F,A,D] | [=F,^G,^D][F,G,D][F,G,=D][F,G,D] [E,G,D][E,G,D][E,G,D][E,G,D] |[K:G] [E,^G,D][E,G,D][E,G,^C][E,G,C] [^C,E,^A,][C,E,A,][=C,E,=A,][C,E,A,] |
+ [B,,,B,,][A,CFA][A,CFA][A,CFA] [G,B,^DF][G,B,E][G,B,E][G,B,E] | [A,CE][A,CE]A,,[E,F,C] [B,,E,B,][B,,E,B,][C,E,A,][C,E,A,] |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score ( 1 2 ) ( 3 4 5 )
+L:1/8
+M:2/4
+Q:1/4=100
+K:G
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 treble 
+V:3 bass nm="Instrument1"
+V:4 bass 
+V:5 bass 
+V:1
+ G | dBce |{/d} d>c Bz/(g/ | f)z/(f/ e)z/e/ |
+ d>c B z | z [FA][GB][Ac] |
+V:2
+ x | G4 | G2 x2 | G z G z |
+ G2 x2 | z D3 |
+V:3
+ G, | (B,G,A,C) | x4 | x4 |
+ x4 | z [C,C][B,,B,][A,,A,] |
+V:4
+ x | x4 |{/C} B,>A, G, z/ E/ | Dz/(D/ C)z/C/ |
+ B,>A, G, z | x4 |
+V:5
+ x | x4 | (B,>A,) G, z | G, z G, z |
+ G,2 x2 | x4 |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:3/8
+Q:3/8=100
+K:C
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/^G/B/ |
+ c z/ E/e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ |
+V:2
+ z | z3 | A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z |
+ A,,/E,/A,/ z/ z | z3 | A,,/E,/A,/ z/ z |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 2
+L:1/8
+M:3/8
+Q:3/8=100
+K:C
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:1
+ e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/^G/B/ |
+ c z/ E/e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ |[K:C][M:2/4] B z/ E/c/B/ |
+ A2 | A z/ B/c/d/ | e3/2 G/f/e/ | d3/2 F/e/d/ |
+ c3/2 E/d/c/ | B z/ E/e/ z/ x/ |
+V:2
+ z | z3 | A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z |
+ A,,/E,/A,/ z/ z | z3 | A,,/E,/A,/ z/ z |[K:C][M:2/4] E,,/E,/^G,/ z/ z |
+ A,,/E,/A,/ z/ | A,,/E,/A,/ z/ z | C,/G,/C/ z/ z | G,,/G,/B,/ z/ z |
+ A,,/E,/A,/ z/ z | E,,/E,/E/ z/ z E/ |
+
+X:1
+T:Music21 Fragment
+C:Music21
+%%score 1 ( 2 3 4 )
+L:1/8
+M:4/4
+Q:1/2=100
+K:E
+%%stretchlast true
+V:1 treble nm="Instrument1"
+V:2 bass nm="Instrument1"
+V:3 bass 
+V:4 bass 
+V:1
+ z8 | z8 | z8 | z8 |
+[K:E] z/ G/A/G/ ^^F/G/c/e/ d/c/d/c/ ^B/c/e/g/ | z/ G/A/G/ ^^F/G/c/e/ d/c/d/c/ ^B/c/e/g/ | z/ A/c/d/ ^f/a/c'/d'/ f'/a'/g'/f'/ e'/d'/f'/c'/ x4 |
+V:2
+ !>![G,,G,]8- | [G,,G,]8 | (6:4:6[C,,C,] G,CEEG, C,G,CECG, | C,G,CE CG, C,G,CECG, |
+[K:E] x10 | x10 | x14 |
+V:3
+ x8 | x8 | x10 | x12 |
+[K:E] C,G,CECG, E,CEG, | C,G,CECG, E,CEG, | D,A,CFCA, F,CDADC x2 |
+V:4
+ x8 | x8 | x10 | x12 |
+[K:E] x2 C,4- C,2- x2 | x2 C,2 C,4- C,2- | x4 C,2 D,4 x4 |
+
+X:1
+T:Music21 Fragment
+C:Music21
+L:1/8
+M:4/4
+Q:1/2=100
+K:E
+%%stretchlast true
+V:1 bass nm="Instrument1"
+V:1
+ !>![G,,G,]8- | [G,,G,]8 | (6:4:6[C,,C,] G,CECG, C,G,CECG, | (6:4:6C,G,CECG, (6:4:6C,G,CECG, |

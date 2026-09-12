@@ -1,0 +1,58 @@
+!!!!SEGMENT:
+!!!OMD: P007001.musicxml.xml
+**kern	**kern
+*part1	*part1
+*staff2	*staff1
+*I"Piano	*
+*I'Pno	*
+*clefF4	*clefG2
+*k[]	*k[]
+!!LO:TX:omd:t=
+*M2/4	*M2/4
+=1	=1
+4e' 4c' 4A'	2r
+4e' 4c' 4A'	.
+=2	=2
+4e' 4c' 4A'	2r
+4e' 4c' 4A'	.
+=3	=3
+4e 4c 4A	(16a
+.	16b
+.	16cc
+.	16b
+4e 4c 4A	8a)
+.	8r
+=4	=4
+4e 4c 4A	(16a
+.	16b
+.	16cc
+.	16dd
+4e 4c 4A	8ee')
+.	8r
+=5	=5
+4f 4d 4A	(16dd
+.	16ee
+.	16ff
+.	16gg
+4f 4d 4A	8aa')
+.	8r
+!!LO:LB:g=z
+=6	=6
+4e 4c 4A	(16aa
+.	16bb
+.	16ccc
+.	16ddd
+4e 4c 4A	8eee')
+.	8r
+=7	=7
+4G 4e 4c	8r
+.	8ee'
+4G 4e 4c	(8ee
+.	8ff)
+=!!	=!!
+*-	*-
+!!!software: music21 v.10.5.0
+!!!software: homr
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

@@ -1,0 +1,97 @@
+!!!!SEGMENT:
+!!!OMD: P007002.musicxml.xml
+**kern	**kern
+*part1	*part1
+*staff2	*staff1
+*I"Piano	*
+*I'Pno	*
+*clefF4	*clefG2
+*k[]	*k[]
+!!LO:TX:omd:t=
+*M2/4	*M2/4
+=1	=1
+4e 4c 4A	2r
+4e' 4c' 4A'	.
+=2	=2
+4e 4c 4A	2r
+4e 4c 4A	.
+=3	=3
+4e 4c 4A	(16a
+.	16b
+.	16cc
+.	16b
+4e 4c 4A	8a')
+.	8r
+=4	=4
+4e 4c 4A	(16a
+.	16b
+.	16cc
+.	16dd
+4e 4c 4A	8ee')
+.	8r
+=5	=5
+4f 4d 4A	(16dd
+.	16ee
+.	16ff
+.	16gg
+4f 4d 4A	8aa')
+.	8r
+!!LO:LB:g=z
+=6	=6
+4e 4c 4A	(16aa
+.	16bb
+.	16ccc
+.	16ddd
+4e 4c 4A	8eee')
+.	8r
+=7	=7
+4G 4e 4c	8r
+.	8ee'
+4G 4e 4c	(8ee
+.	8ff)
+=8	=8
+4G 4f 4B	8dd'
+.	8r
+4G 4f 4B	4dd
+=9	=9
+4G 4f 4B	8dd
+.	8gg
+4G 4f 4B	8dd
+.	8ee
+=10	=10
+8e 8c	8cc
+8r	8r
+4e	4ee
+=11	=11
+4.e 4.c	4cc
+.	8ccc'
+8r	8r
+=12	=12
+16G#	4.ee
+16A	.
+16B	.
+16A	.
+8G#	.
+8r	8b
+!!LO:LB:g=z
+=13	=13
+16A	4.cc
+16B	.
+16c	.
+16d	.
+8e'	.
+8r	8a
+=14	=14
+16G#	4.ee
+16A	.
+16B	.
+16A	.
+8G#'	.
+8r	8b
+=!!	=!!
+*-	*-
+!!!software: music21 v.10.5.0
+!!!software: homr
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
